@@ -1,2 +1,2 @@
-I learned how to initialize a project.
+I learned how to initialize a project using Git.
 Track a file, and commit it.
