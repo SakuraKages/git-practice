@@ -1,0 +1,2 @@
+I learned how to initialize a project.
+Track a file, and commit it.
