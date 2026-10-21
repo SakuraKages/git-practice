@@ -1,2 +1,3 @@
 I learned how to initialize a project using Git.
 Track a file, and commit it.
+I can check changes before creating a commit.
