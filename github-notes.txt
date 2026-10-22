@@ -1,1 +1,2 @@
 I can push local commits to GitHub.
+I can synchronize repositories using Git.
